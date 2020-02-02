@@ -5,7 +5,7 @@ public class Point {
 	public Point(int a, int b) {
 		x=a;
 		y=b;
-	}
+	} 
 
 	@Override
 	public String toString() {

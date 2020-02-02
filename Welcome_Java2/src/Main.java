@@ -7,7 +7,7 @@ public class Main {
 		Circle c=new Circle(p,10);
 		System.out.println(p);
 		System.out.println(c);
-		
+		 
 
 	}
 

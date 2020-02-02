@@ -6,7 +6,7 @@ public class Circle {
 	public Circle(Point p, int r) {
 		center=p;
 		radius=r;
-			
+			 
 	}
 
 	@Override
