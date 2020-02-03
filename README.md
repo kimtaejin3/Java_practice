@@ -1,2 +1,4 @@
 # Java_practice
-studying java
+
+책: 어서와 자바는 처음이지
+클래스심화 
